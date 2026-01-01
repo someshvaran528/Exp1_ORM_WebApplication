@@ -43,8 +43,10 @@ admin.site.register(Student, StudentAdmin)
 ```
 ## OUTPUT
 <img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/2345cead-6eca-4850-a6b0-e64ae83cf359" />
-![alt text](<Screenshot 2025-11-25 115705.png>) 
-![alt text](<Screenshot 2025-11-25 115947.png>)
+<img width="1911" height="993" alt="image" src="https://github.com/user-attachments/assets/409194da-4f35-4b43-9198-d0c2367c7721" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a712f7b-56c7-4e9b-9aff-dc1e07588220" />
+
+
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
