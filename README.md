@@ -42,7 +42,8 @@ from .models import Student, StudentAdmin
 admin.site.register(Student, StudentAdmin)
 ```
 ## OUTPUT
-![alt text](<Screenshot 2025-11-25 120240.png>) ![alt text](<Screenshot 2025-11-25 115705.png>) ![alt text](<Screenshot 2025-11-25 115947.png>)
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/2345cead-6eca-4850-a6b0-e64ae83cf359" />
+![alt text](<Screenshot 2025-11-25 115705.png>) ![alt text](<Screenshot 2025-11-25 115947.png>)
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
